@@ -1,5 +1,5 @@
 /* ============================================================
-   StudyTrack – script.js
+   NoteZap – script.js
    Features: Add / Edit / Delete / Complete homework, Dashboard
    stats, Progress bar, Search & Filter & Sort, Dark mode,
    Motivational quotes, PWA install prompt, LocalStorage persist
